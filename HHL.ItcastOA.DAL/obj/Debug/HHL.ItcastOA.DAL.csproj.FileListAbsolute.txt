@@ -1,0 +1,16 @@
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\HHL.ItcastOA.DAL.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\HHL.ItcastOA.DAL.pdb
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\obj\Debug\HHL.ItcastOA.DAL.csprojResolveAssemblyReference.cache
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\obj\Debug\HHL.ItcastOA.DAL.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\obj\Debug\HHL.ItcastOA.DAL.pdb
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\HHL.ItcastOA.DAL.dll.config
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\EntityFramework.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\HHL.ItcastOA.IDAL.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\HHL.ItcastOA.Model.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\HHL.ItcastOA.IDAL.pdb
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\HHL.ItcastOA.Model.pdb
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\EntityFramework.xml
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll

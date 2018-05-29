@@ -1,0 +1,88 @@
+﻿@model IEnumerable<HHL.ItcastOA.Model.UserInfo>
+
+
+@{
+    Layout = null;
+    List<HHL.ItcastOA.Model.UserInfo> Model = ViewBag.Model;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/themes/default/easyui.css" rel="stylesheet" />
+        <link href="~/Content/themes/icon.css" rel="stylesheet" />
+        <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+      <script src="~/Scripts/jquery.easyui.min.js"></script>
+        <script src="~/Scripts/easyui-lang-zh_CN.js"></script>
+        <script src="~/Scripts/datapattern.js"></script>
+    <script type="text/javascript">
+         $(function () {
+             loadData();
+         });
+         function loadData() {
+             $("#tt").datagrid({
+                 url:'/UserInfo/GetList',
+                 titile: "用户数据表格",
+                 methord: 'post',
+                 width: 700,
+                 height: 400,
+                 fitcolumns: true,
+                 sortName: 'ID',
+                 sortOrder: 'desc',
+                 //nowrap: false,
+                 idfield: "ID",
+                 loadmsg: "正在加载用户的信息...",
+                 pagination: true,//是否有分页
+                 singleSelect: true,//是否单行选择
+                 pageSize: 5,
+                 pageNumber: 1,//默认当前页
+                 pageList: [5, 10, 15],
+                 striped: true, //奇偶行是否区分
+                 //rownumbers: true,//行号
+                 queryParams: {},//往后台传递参数
+                 columns:[[
+                  { field: "CK", checkbox: true, align: "left", width: 50 },
+                 { field: 'ID', title: '编号', width: 80 },
+                 { field: 'UserName', title: '姓名', width: 150 },
+                 { field: "Email", title: "电子邮箱", width: 150 },
+                 {
+                     field: "RegTime", title: "添加时间", width:150, align: "left",
+                     formatter: function (value, row, index) {
+                     return (eval(value.replace(/\/Date\((\d+)\)\//gi,"new Date($1)"))).pattern("yyyy-M-d");
+                     }
+                 },
+                 { field: "Remark", title: "备注", width: 120 }
+                 ]],
+                 toolbar:[{
+                    id:"btnGet",
+                    text:"删除",
+                    iconCls:"icon-add",
+                    handler:function()
+                    {
+                        var rows=$("#tt").datagrid("getSelections");
+                        if(!rows||rows.length==0)
+                        {
+                            $.messager.alert("提醒", "请选择要删除的记录！", "error");
+                            
+                            return;
+                        }
+                    }
+                 }],
+             });
+
+         }
+
+        </script>
+</head>
+<body>
+    <div>
+            <table id="tt" style="width:700px;" title="标题，可以使用代码进行初始化，也可以用这种属性方式" iconcls="icon-edit">
+
+            </table>
+        </div>
+</body>
+</html>

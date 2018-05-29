@@ -1,0 +1,12 @@
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\bin\Debug\HHL.ItcastOA.IBLL.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\bin\Debug\HHL.ItcastOA.IBLL.pdb
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\obj\Debug\HHL.ItcastOA.IBLL.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\obj\Debug\HHL.ItcastOA.IBLL.pdb
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\bin\Debug\HHL.ItcastOA.IDAL.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\bin\Debug\HHL.ItcastOA.Model.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\bin\Debug\EntityFramework.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\bin\Debug\HHL.ItcastOA.IDAL.pdb
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\bin\Debug\HHL.ItcastOA.Model.pdb
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\bin\Debug\EntityFramework.xml
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.IBLL\obj\Debug\HHL.ItcastOA.IBLL.csprojResolveAssemblyReference.cache

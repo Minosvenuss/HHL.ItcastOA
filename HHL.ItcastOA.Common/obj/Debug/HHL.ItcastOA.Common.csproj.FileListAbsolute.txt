@@ -1,0 +1,4 @@
+F:\HHL.ItcastOA\HHL.ItcastOA.Common\bin\Debug\HHL.ItcastOA.Common.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.Common\bin\Debug\HHL.ItcastOA.Common.pdb
+F:\HHL.ItcastOA\HHL.ItcastOA.Common\obj\Debug\HHL.ItcastOA.Common.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.Common\obj\Debug\HHL.ItcastOA.Common.pdb

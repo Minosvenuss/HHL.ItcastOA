@@ -1,0 +1,12 @@
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\bin\Debug\HHL.ItcastOA.Model.dll.config
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\bin\Debug\HHL.ItcastOA.Model.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\bin\Debug\HHL.ItcastOA.Model.pdb
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\bin\Debug\EntityFramework.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\bin\Debug\EntityFramework.xml
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\obj\Debug\HHL.ItcastOA.Model.csprojResolveAssemblyReference.cache
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\obj\Debug\HHL.ItcastOA.Model.dll
+F:\HHL.ItcastOA\HHL.ItcastOA.Model\obj\Debug\HHL.ItcastOA.Model.pdb
